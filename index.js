@@ -26,7 +26,7 @@ const { fifaData } = require('./fifa.js')
 */
 
 function Finaller(/* kodlar buraya */) {
-	
+	sdsdsdsdsd
     /* kodlar buraya */
 }
 
